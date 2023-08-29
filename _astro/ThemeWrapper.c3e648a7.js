@@ -1,0 +1,1 @@
+import{u as r,t as s}from"./theme.aa003b8c.js";import{j as m}from"./jsx-runtime.391947bd.js";import"./index.ed373d49.js";const i=({children:e})=>{const t=r(s);return m.jsx("div",{className:`${t}`,children:e})};export{i as ThemeWrapper};
